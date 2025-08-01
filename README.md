@@ -22,7 +22,7 @@ This project showcases the fundamental concepts of network programming, such as 
 
    4. Message Formatting & Protocol Design
 
-Basic Error and Connection Handling
+   5. Basic Error and Connection Handling
 
 🛠️ Tech Stack
 1. Python 3
